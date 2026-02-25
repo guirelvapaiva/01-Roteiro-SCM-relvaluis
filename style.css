@@ -60,7 +60,9 @@ body {
 }
 
 .hero-content h1 {
-    font-size: 2.5rem;
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
     margin-bottom: 1rem;
 }
 
